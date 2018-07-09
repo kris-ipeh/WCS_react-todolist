@@ -1,0 +1,23 @@
+body {
+  margin:20;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+li {
+  display: flex;
+}
+
+.item {
+  font-size: 1.5rem;
+  width: 150px;
+}
+
+.action {
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+img {
+  margin-right: 10px;
+}
