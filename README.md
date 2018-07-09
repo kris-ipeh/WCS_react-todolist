@@ -1,6 +1,6 @@
 # TODO list
 
-Todo list created with create-react-app
+A very simple todo list created with ``create-react-app``
 
 ## Use
 
